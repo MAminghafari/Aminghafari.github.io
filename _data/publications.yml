@@ -1,0 +1,22 @@
+main:
+
+  - title: A new type of generalized information criterion for regularization parameter selection in penalized regression with application to treatment process data
+    authors: Amir Hossein Ghatari,  <strong>Mina Aminghafari*</strong>
+    #conference_short: MICCAI
+    conference: Journal of Biopharmaceutical Statistics, 2024
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    pdf: https://www.tandfonline.com/doi/abs/10.1080/10543406.2023.2228399
+    #image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
+
+  - title: "A sparse exponential family latent block model for co-clustering"
+    authors: S. Hoseinipour, <strong>Mina Aminghafari*</strong>,  Adel Mohammadpour, Mohamed Nadif
+    conference: Advances in Data Analysis and Classification, 2024
+    #pdf: https://link.springer.com/article/10.1007/s11634-024-00608-3
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    pdf: https://link.springer.com/article/10.1007/s11634-024-00608-3
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    #image: ./assets/img/11634_2024_608_Fig11_HTML.png

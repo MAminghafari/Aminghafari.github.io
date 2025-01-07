@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Recent publications, visit google scholar for a full and updated list</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Recent publications, visit Google Scholar for a complete and updated list.</h2>
 
 <div class="publications">
 <ol class="bibliography">

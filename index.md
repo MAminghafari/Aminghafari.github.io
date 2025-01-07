@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me 
 
-I am an associate professor at The University of Calgary.
+I am an associate professor of machine learning at the University of Calgary. Most of my recent work has been in unsupervised Machine Learning for functional data and Co-clustering. I am also interested in Time Series Forecasting and Robust methods. I have five years of industrial experience in different industries, such as insurance and education.
 
 ## Research Interests
 
@@ -15,7 +15,7 @@ I am an associate professor at The University of Calgary.
 
 - **[Dec. 2024]** I am seeking two motivated PhD candidates who want to work on Robust Machine Learning methods. A strong statistics or computer science background and a high skill level in R or Python are highly needed. Full financial support will be provided for PhD students. If you are interested, email me at mina.aminghafari@ucalgary.ca, and include your CV and letter of motivation.
 - **[Nov. 2023]** I was selected as P.Stat by [SSC](https://ssc.ca/en/publications/ssc-liaison/vol-37-6-2023-12/new-accreditations)
-- **[Sept. 2024]** I started working on a new AI project entitled Decoding “Healthy” from “Pathogenic” Antinuclear Antibody Patterns Using Artificial Intelligence, Funded by McCaig Institute for Bone and Joint Health.
+- **[Sept. 2024]** I started working on a new AI project entitled Decoding “Healthy” from “Pathogenic” Antinuclear Antibody Patterns Using Artificial Intelligence, Funded by McCaig Institute for Bone and Joint Health with [Dr M. Choi](https://www.ai-dx.ca).
 
 {% include_relative _includes/publications.md %}
 

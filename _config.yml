@@ -6,7 +6,7 @@ email: mina.aminghafari@ucalgary.ca
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Aminghafari, Mina, University of Calgary, Associate Professor, Machine learning specialist, Research Scientist, Associate Professor, Statistician,Senior Data scientist. 
+keywords: Aminghafari, Mina, University of Calgary, Associate Professor, Machine learning specialist, Statistician,Senior Data scientist. 
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://profiles.ucalgary.ca/mina-aminghafari
 
@@ -15,7 +15,8 @@ canonical: https://profiles.ucalgary.ca/mina-aminghafari
 google_scholar: https://scholar.google.ca/citations?user=Fc2zyckAAAAJ&hl=en
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/MAminghafari
-linkedin: https://profiles.ucalgary.ca/mina-aminghafari
+linkedin: https://www.linkedin.com/in/mina-aminghafari-phd-384989151/
+website: https://profiles.ucalgary.ca/mina-aminghafari
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 

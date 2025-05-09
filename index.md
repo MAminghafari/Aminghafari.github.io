@@ -16,7 +16,7 @@ I am an associate professor of machine learning at the University of Calgary. Mo
 - **[April 2025]** I am Co-PI in the Indigenous Inflammatory Arthritis Prevention And Treatment approaches for Health equity
 (IIA-PATH) Project.
 
-- **[April 2025]** I am Co-Pi in the "Integrated assessment of surface water-soil water-groundwater connections for
+- **[April 2025]** I am Co-PI in the "Integrated assessment of surface water-soil water-groundwater connections for
 groundwater recharge estimation and groundwater drought indicators" Project,
 
 - **[Dec. 2024]** I am seeking two motivated PhD candidates who want to work on Robust Machine Learning methods. A strong statistics or computer science background and a high skill level in R or Python are highly needed. Full financial support will be provided for PhD students. If you are interested, email me at mina.aminghafari@ucalgary.ca, and include your CV and letter of motivation.

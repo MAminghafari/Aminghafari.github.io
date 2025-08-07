@@ -12,6 +12,8 @@ I am an associate professor of machine learning at the University of Calgary. Mo
 - **Machine Learning:** Pattern recognition, Unsupervised Learning, Robust Machine Learning
 
 ## News
+- **[Jully. 2025]**
+Our [SPARC Ignite Grant](https://mccaig.ucalgary.ca/research/sparc), with Dr Glen Hazlewood, was accepted.
 - **[May 2025]** If you have an offer letter for a PhD in Statistical/Machine Learning from a top 50 US University and cannot/will not go there, we will accept you for Fall 2025. Don't hesitate to get in touch with me.  https://science.ucalgary.ca/mathematics-statistics
 - **[April 2025]** I am Co-PI in the Indigenous Inflammatory Arthritis Prevention And Treatment approaches for Health equity
 (IIA-PATH) Project.

@@ -34,7 +34,7 @@ in Statistical/Machine Learning from a top 50 US University and cannot/will not 
 - **[December 2024]** I am seeking two motivated PhD candidates who want to work on Robust Machine Learning methods. A strong statistics or computer science background and a high skill level in R or Python are highly needed. Full financial support will be provided for PhD students. If you are interested, email me at mina.aminghafari@ucalgary.ca and include your CV, transcripts, English proficiency test, and letter of motivation.
 
 
-- **[September 2024]** I started working on a new AI project entitled Decoding "Healthy" from "Pathogenic" Antinuclear Antibody Patterns Using Artificial Intelligence, Funded by McCaig Institute for Bone and Joint Health with [Dr M. Choi](https://www.ai-dx.ca).
+- **[September 2024]** I started working on a new AI project entitled [Decoding "Healthy" from "Pathogenic" Antinuclear Antibody Patterns Using Artificial Intelligence](https://mccaig.ucalgary.ca/research/sparc), Funded by McCaig Institute for Bone and Joint Health with [Dr M. Choi](https://www.ai-dx.ca).
 
 - **[June 2024-2025]** I was an orginizer of [Math to Power Industry](https://m2pi.ca).
 

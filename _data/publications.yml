@@ -1,6 +1,13 @@
 main:
+  - title: "Fdmclust: Functional data model-based clustering using approximation of probability density for a random function in a reproducing Kernel Hilbert space framework"
+    authors: Hanieh Saeidi, <strong>Mina Aminghafari*</strong> Mehdi Ashkartizabi
+    #conference_short: MICCAI
+    conference: Neurocomputing, 2025
+    pdf: https://www.sciencedirect.com/science/article/pii/S0925231225014407
+    #image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
 
-  - title: A new type of generalized information criterion for regularization parameter selection in penalized regression with application to treatment process data
+  - title: "A new type of generalized information criterion for regularization parameter selection in penalized regression with application to treatment process data
     authors: Amir Hossein Ghatari,  <strong>Mina Aminghafari*</strong>
     #conference_short: MICCAI
     conference: Journal of Biopharmaceutical Statistics, 2024
@@ -20,3 +27,5 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
     #image: ./assets/img/11634_2024_608_Fig11_HTML.png
+
+    
